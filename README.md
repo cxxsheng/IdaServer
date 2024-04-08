@@ -1,2 +1,1 @@
-# IdaServer
-version 7.0
+# IDA Pro Debug Server
